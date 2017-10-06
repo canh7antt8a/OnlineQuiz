@@ -1,6 +1,6 @@
 # OnlineQuiz
 Tool thi trắc nghiệm online dành cho server yếu.
-1. Tool và thư viện:
+1. Công cụ và thư viện:
   + Công cụ:
     - Eclipse.
     - Apache tomcat 7.
